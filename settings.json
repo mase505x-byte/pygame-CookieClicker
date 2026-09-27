@@ -1,0 +1,11 @@
+{
+  "backend-settings": {
+    "api": "https://api.github.com"
+  },
+  "github-settings": {
+    "api": "https://api.github.com/repos/microsoft/vscode"
+  },
+  "settings-click": {
+    "sound": "button-click.mp3"
+  }
+}

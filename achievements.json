@@ -1,0 +1,7 @@
+{
+    "create_boxUI_color": "#d3d3d3",
+    "boxUI_layering": "transparent",
+    "createList": "[Oven, Bakery, Grandmas House]",
+    "giveList": "(#lightgray(outer_boxes))",
+    "addList.To": "boxUI"
+}
